@@ -1,6 +1,6 @@
 {
   "name": "koaze",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A Koa zerver for Kozea uze",
   "main": "lib/app.js",
   "repository": "https://github.com/Kozea/koaze",
